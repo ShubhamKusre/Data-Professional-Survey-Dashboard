@@ -32,7 +32,7 @@ An interactive **Power BI dashboard** that visualizes insights from a survey of 
 
 ---
 
-![Dashboard Screenshot](screenshots/dashboard.png)  
+![Dashboard Screenshot](PowerBI.png)  
 
 ---
 
